@@ -1,27 +1,34 @@
 <script setup>
 import { computed } from 'vue';
-import { RouterLink } from 'vue-router';
+import { RouterLink, useRouter } from 'vue-router';
 import { store } from '@/store/index.js';
+
+const router = useRouter();
 
 const cartItemCount = computed(() => {
   return store.cart.reduce((total, item) => total + item.quantity, 0);
 });
+
+function handleLogout() {
+  store.logout();
+  router.push('/login');
+}
 </script>
 
 <template>
   <header class="bg-[#1a1a2e] text-white shadow-lg sticky top-0 z-50">
     <div class="container mx-auto px-4 py-3 flex justify-between items-center">
-<RouterLink to="/" @click="store.setCategory('Todos')" 
-    class="text-2xl font-bold tracking-wider bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent animate-pulse">
-    ByteStore
-</RouterLink>      
+      <RouterLink :to="{ name: 'home' }" @click="store.setCategory('Todos')" 
+        class="text-2xl font-bold tracking-wider bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent animate-pulse">
+        ByteStore
+      </RouterLink>
       <nav class="hidden md:flex items-center space-x-6">
-        <RouterLink to="/" @click="store.setCategory('Eletrônicos')" class="hover:text-blue-400">Eletrônicos</RouterLink>
-        <RouterLink to="/" @click="store.setCategory('Roupas')" class="hover:text-blue-400">Roupas</RouterLink>
-        <RouterLink to="/" @click="store.setCategory('Casa')" class="hover:text-blue-400">Casa</RouterLink>
-        <RouterLink to="/" @click="store.setCategory('Livros')" class="hover:text-blue-400">Livros</RouterLink>
-        <RouterLink to="/" @click="store.setCategory('Esportes e Lazer')" class="hover:text-blue-400">Esportes e Lazer</RouterLink>
-        <RouterLink to="/" @click="store.setCategory('Beleza e Cuidados')" class="hover:text-blue-400">Beleza e Cuidados</RouterLink>
+        <RouterLink :to="{ name: 'home' }" @click="store.setCategory('Eletrônicos')" class="hover:text-blue-400">Eletrônicos</RouterLink>
+        <RouterLink :to="{ name: 'home' }" @click="store.setCategory('Roupas')" class="hover:text-blue-400">Roupas</RouterLink>
+        <RouterLink :to="{ name: 'home' }" @click="store.setCategory('Casa')" class="hover:text-blue-400">Casa</RouterLink>
+        <RouterLink :to="{ name: 'home' }" @click="store.setCategory('Livros')" class="hover:text-blue-400">Livros</RouterLink>
+        <RouterLink :to="{ name: 'home' }" @click="store.setCategory('Esportes e Lazer')" class="hover:text-blue-400">Esportes e Lazer</RouterLink>
+        <RouterLink :to="{ name: 'home' }" @click="store.setCategory('Beleza e Cuidados')" class="hover:text-blue-400">Beleza e Cuidados</RouterLink>
       </nav>
       
       <div class="flex items-center space-x-4">
@@ -36,15 +43,24 @@ const cartItemCount = computed(() => {
             <i class="fas fa-search"></i>
           </span>
         </div>
-        <RouterLink to="/cart" class="relative text-xl hover:text-blue-400">
+        <RouterLink :to="{ name: 'cart' }" class="relative text-xl hover:text-blue-400">
             <i class="fas fa-shopping-cart"></i>
             <span v-if="cartItemCount > 0" class="absolute -top-2 -right-2 bg-blue-500 text-xs rounded-full h-5 w-5 flex items-center justify-center">
               {{ cartItemCount }}
             </span>
         </RouterLink>
-        <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-          Login
-        </button>
+
+        <div v-if="store.isAuthenticated">
+          <button @click="handleLogout" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+            Logout
+          </button>
+        </div>
+        <div v-else>
+          <RouterLink to="/login" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+            Login
+          </RouterLink>
+        </div>
+        
       </div>
     </div>
   </header>

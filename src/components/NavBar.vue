@@ -1,6 +1,11 @@
 <script setup>
+import { computed } from 'vue'
 import { RouterLink } from 'vue-router'
-import { cartItemCount } from '@/cart.js'
+import { store } from '@/store/index.js'
+
+const cartItemCount = computed(() => {
+  return store.cart.reduce((total, item) => total + (item.quantity || 0), 0)
+})
 </script>
 
 <template>
