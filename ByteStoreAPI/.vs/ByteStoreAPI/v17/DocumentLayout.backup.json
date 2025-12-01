@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|c:\\users\\caios\\downloads\\bytestore\\bytestoreapi\\bytestoreapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9558B252-4B87-4CB2-B616-AA806A67B323}|ByteStoreAPI\\ByteStoreAPI.csproj|solutionrelative:bytestoreapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Controllers\\VendedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:44:11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:44:07.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Service\\SaleService.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Service\\SaleService.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Service\\SaleService.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Service\\SaleService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:05:43.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:05:12.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Service\\ClientService.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Service\\ClientService.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Service\\ClientService.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Service\\ClientService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:04:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Service\\ProductService.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Service\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:04:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:01:02.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "ByteStoreAPI\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "ByteStoreAPI\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:06:12.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

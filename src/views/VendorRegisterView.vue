@@ -2,12 +2,14 @@
 import { ref } from 'vue';
 import { RouterLink, useRouter } from 'vue-router';
 import { store } from '@/store/index.js';
+import { vendorRegister as apiVendorRegister } from '@/services/authService';
 
 const storeName = ref('');
 const email = ref('');
 const password = ref('');
 const confirmPassword = ref('');
 const errorMessage = ref('');
+const successMessage = ref('');
 const isLoading = ref(false);
 const router = useRouter();
 
@@ -38,7 +40,7 @@ const handleRegister = async () => {
   }
 
   isLoading.value = true;
-  const result = await store.vendorRegister({
+  const result = await apiVendorRegister({
     storeName: storeName.value,
     email: email.value,
     password: password.value,
@@ -46,8 +48,10 @@ const handleRegister = async () => {
   isLoading.value = false;
 
   if (result.success) {
-    router.push({ name: 'vendor-dashboard' });
+    successMessage.value = 'Cadastro de vendedor realizado com sucesso! Você já pode fazer login.';
+    errorMessage.value = '';
   } else {
+    successMessage.value = '';
     errorMessage.value = result.error || 'Erro ao registrar vendedor';
   }
 };
@@ -75,9 +79,12 @@ const handleRegister = async () => {
             <label for="confirmPassword" class="block text-gray-300 text-sm font-bold mb-2">Confirmar Senha</label>
             <input v-model="confirmPassword" type="password" id="confirmPassword" class="w-full bg-[#0e101f] border border-gray-700 rounded-lg py-2 px-3 text-white" required>
           </div>
-          <div v-if="errorMessage" class="text-red-400 text-sm mb-2">
-            {{ errorMessage }}
-          </div>
+      <div v-if="errorMessage" class="text-red-400 text-sm mb-2">
+        {{ errorMessage }}
+      </div>
+      <div v-if="successMessage" class="text-green-400 text-sm mb-2">
+        {{ successMessage }}
+      </div>
           <button 
             type="submit" 
             :disabled="isLoading"

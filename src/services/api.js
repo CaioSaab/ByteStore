@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3000/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://localhost:7181/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
@@ -37,13 +37,23 @@ api.interceptors.request.use(
   (config) => {
     const token = getAuthToken();
     const vendorToken = getVendorToken();
-    
-    if (token) {
-      config.headers.Authorization = `Bearer ${token}`;
-    } else if (vendorToken) {
-      config.headers.Authorization = `Bearer ${vendorToken}`;
+    const url = config?.url || '';
+    const isVendorEndpoint = /\/vendedor\b|\/vendor\b/i.test(url);
+
+    if (isVendorEndpoint) {
+      if (vendorToken) {
+        config.headers.Authorization = `Bearer ${vendorToken}`;
+      } else if (token) {
+        config.headers.Authorization = `Bearer ${token}`;
+      }
+    } else {
+      if (token) {
+        config.headers.Authorization = `Bearer ${token}`;
+      } else if (vendorToken) {
+        config.headers.Authorization = `Bearer ${vendorToken}`;
+      }
     }
-    
+
     return config;
   },
   (error) => {
@@ -55,11 +65,25 @@ api.interceptors.response.use(
   (response) => {
     return response;
   },
-  (error) => {
+  async (error) => {
     if (error.response?.status === 401) {
       setAuthToken('');
       setVendorToken('');
-      window.location.href = '/login';
+      
+      try {
+        const { store } = await import('@/store/index.js');
+        store.logout();
+        store.vendorLogout();
+      } catch (e) {
+        console.warn('Não foi possível limpar estado da store:', e);
+      }
+      
+      const currentPath = window.location.pathname;
+      if (currentPath.startsWith('/vendor')) {
+        window.location.href = '/vendor/login';
+      } else {
+        window.location.href = '/login';
+      }
     }
     return Promise.reject(error);
   }

@@ -2,7 +2,7 @@
 import { computed, ref, onMounted } from 'vue';
 import { RouterLink } from 'vue-router';
 import { store } from '@/store/index.js';
-import { calculateShipping } from '@/services/shippingService';
+// Frete: 5% do subtotal (sem chamada à API)
 
 const cepInput = ref('');
 const calculatedShippingCost = ref(null);
@@ -35,12 +35,8 @@ const handleCalculateShipping = async () => {
   calculatedShippingCost.value = null;
 
   try {
-    const result = await calculateShipping(cepInput.value);
-    if (result.success) {
-      calculatedShippingCost.value = result.data.cost || result.data.price || 0;
-    } else {
-      shippingError.value = result.error || 'Erro ao calcular frete';
-    }
+    const cost = subtotal.value * 0.05;
+    calculatedShippingCost.value = Number(cost.toFixed(2));
   } catch (error) {
     shippingError.value = error.message || 'Erro ao calcular frete';
   } finally {

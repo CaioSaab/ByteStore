@@ -1,0 +1,4039 @@
+{
+  "Version": 1,
+  "Hash": "TtnMMJsLI52+GAajU3YuuMwPdpWpZalfJyWLbBrsALk=",
+  "Source": "ByteStoreAPI",
+  "BasePath": "_content/ByteStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ByteStoreAPI\\wwwroot",
+      "Source": "ByteStoreAPI",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\021e0a62-db01-49c9-940b-188bcf301119.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/021e0a62-db01-49c9-940b-188bcf301119#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tjr38xvpe1",
+      "Integrity": "OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\021e0a62-db01-49c9-940b-188bcf301119.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\067c9034-8737-4e26-9914-39a27dd59c14.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/067c9034-8737-4e26-9914-39a27dd59c14#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oc5yg3vufm",
+      "Integrity": "mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\067c9034-8737-4e26-9914-39a27dd59c14.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\0ac66da8-d3f0-4302-8843-c204d59e5750.webp",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/0ac66da8-d3f0-4302-8843-c204d59e5750#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02nug6q2sn",
+      "Integrity": "yCfUz12xfun3TJ2O0giUKUPLQZUWlYo0Iq7Y2akhVrE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0ac66da8-d3f0-4302-8843-c204d59e5750.webp"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\1ae1bb47-4735-4687-8663-43d83465cb02.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/1ae1bb47-4735-4687-8663-43d83465cb02#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "srdpe6t9d0",
+      "Integrity": "+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1ae1bb47-4735-4687-8663-43d83465cb02.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4j0mlxdrxc",
+      "Integrity": "0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\25c69fca-990b-403a-b92b-0cdc8bc2a360.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/25c69fca-990b-403a-b92b-0cdc8bc2a360#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oc5yg3vufm",
+      "Integrity": "mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\25c69fca-990b-403a-b92b-0cdc8bc2a360.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\273696a6-1ad7-4840-a912-1f38c02dfe45.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/273696a6-1ad7-4840-a912-1f38c02dfe45#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q0a2sfdv7a",
+      "Integrity": "OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\273696a6-1ad7-4840-a912-1f38c02dfe45.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2b900fa1-d5ef-4221-86b8-efa0ceefde59.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/2b900fa1-d5ef-4221-86b8-efa0ceefde59#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9xeeqgwss",
+      "Integrity": "Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2b900fa1-d5ef-4221-86b8-efa0ceefde59.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2ec9ccc4-4137-4703-8daf-d2bc83727fce.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/2ec9ccc4-4137-4703-8daf-d2bc83727fce#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9xeeqgwss",
+      "Integrity": "Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2ec9ccc4-4137-4703-8daf-d2bc83727fce.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2f3d22c4-25ef-4253-929a-31a4fedc07b5.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/2f3d22c4-25ef-4253-929a-31a4fedc07b5#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9xeeqgwss",
+      "Integrity": "Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2f3d22c4-25ef-4253-929a-31a4fedc07b5.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2fdf1d27-8810-4b66-9da2-52b5fd5f4223.webp",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/2fdf1d27-8810-4b66-9da2-52b5fd5f4223#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pplsqpd2ut",
+      "Integrity": "E/UEddcYWVCJ87eB1A/lr7qJK3BLwb+PQcCF+kMnp7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2fdf1d27-8810-4b66-9da2-52b5fd5f4223.webp"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oc5yg3vufm",
+      "Integrity": "mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\43f1842a-cf6d-4a7a-bc6a-1734124193f6.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/43f1842a-cf6d-4a7a-bc6a-1734124193f6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f14gshyozj",
+      "Integrity": "cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\43f1842a-cf6d-4a7a-bc6a-1734124193f6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\443f59c1-38bf-49ff-92cb-d3501b37b932.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/443f59c1-38bf-49ff-92cb-d3501b37b932#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "srdpe6t9d0",
+      "Integrity": "+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\443f59c1-38bf-49ff-92cb-d3501b37b932.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\4525502f-ba87-4b7d-9c33-2f91f6974e36.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/4525502f-ba87-4b7d-9c33-2f91f6974e36#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q0a2sfdv7a",
+      "Integrity": "OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4525502f-ba87-4b7d-9c33-2f91f6974e36.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\457a5450-6843-428d-b1bc-fa49c682439a.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/457a5450-6843-428d-b1bc-fa49c682439a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0zfia58d2e",
+      "Integrity": "pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\457a5450-6843-428d-b1bc-fa49c682439a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\49629f70-971c-4aa8-8032-261900b3610b.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/49629f70-971c-4aa8-8032-261900b3610b#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9xeeqgwss",
+      "Integrity": "Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\49629f70-971c-4aa8-8032-261900b3610b.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\49713f4c-a860-4d02-850d-1b874abe72db.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/49713f4c-a860-4d02-850d-1b874abe72db#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4j0mlxdrxc",
+      "Integrity": "0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\49713f4c-a860-4d02-850d-1b874abe72db.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\4ac5c726-2aed-492c-b729-c927003b55fb.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/4ac5c726-2aed-492c-b729-c927003b55fb#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tjr38xvpe1",
+      "Integrity": "OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4ac5c726-2aed-492c-b729-c927003b55fb.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\5745e5c8-85e6-4899-93d9-b2357aa57bf4.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/5745e5c8-85e6-4899-93d9-b2357aa57bf4#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9xeeqgwss",
+      "Integrity": "Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5745e5c8-85e6-4899-93d9-b2357aa57bf4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\58bddca0-90f7-47a4-8175-2c9cdd12f08a.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/58bddca0-90f7-47a4-8175-2c9cdd12f08a#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t674cuihqw",
+      "Integrity": "ZSHxGiLsuBhHi4O8nIB9rMFLKinaDTmOEySz/ZnV2dE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\58bddca0-90f7-47a4-8175-2c9cdd12f08a.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\65b0c154-3f9b-41b3-9f0c-15845ca80ee8.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/65b0c154-3f9b-41b3-9f0c-15845ca80ee8#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4j0mlxdrxc",
+      "Integrity": "0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\65b0c154-3f9b-41b3-9f0c-15845ca80ee8.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\6c2796e1-2ac0-44c6-9698-2b125a1dc045.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/6c2796e1-2ac0-44c6-9698-2b125a1dc045#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y96iv8kzr4",
+      "Integrity": "Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6c2796e1-2ac0-44c6-9698-2b125a1dc045.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\7f7cbda7-49b1-47f7-93a9-d945d923df20.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/7f7cbda7-49b1-47f7-93a9-d945d923df20#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oc5yg3vufm",
+      "Integrity": "mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7f7cbda7-49b1-47f7-93a9-d945d923df20.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\84148543-7e90-4abc-857d-07d38451a3cf.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/84148543-7e90-4abc-857d-07d38451a3cf#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oc5yg3vufm",
+      "Integrity": "mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\84148543-7e90-4abc-857d-07d38451a3cf.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\8af6cd2a-d568-413f-9c18-88a94e8ae571.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/8af6cd2a-d568-413f-9c18-88a94e8ae571#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tjr38xvpe1",
+      "Integrity": "OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8af6cd2a-d568-413f-9c18-88a94e8ae571.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\af242b14-5914-4dc0-877d-dbe08fc7b2b3.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/af242b14-5914-4dc0-877d-dbe08fc7b2b3#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4j0mlxdrxc",
+      "Integrity": "0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\af242b14-5914-4dc0-877d-dbe08fc7b2b3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\bde9a761-e783-4b49-a4a9-0750db841a83.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/bde9a761-e783-4b49-a4a9-0750db841a83#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f14gshyozj",
+      "Integrity": "cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bde9a761-e783-4b49-a4a9-0750db841a83.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\be899267-c24a-4e88-9d29-0700dc789250.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/be899267-c24a-4e88-9d29-0700dc789250#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0zfia58d2e",
+      "Integrity": "pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\be899267-c24a-4e88-9d29-0700dc789250.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c2ceb8ff-7e8f-4c38-b955-7655ddca635d.webp",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/c2ceb8ff-7e8f-4c38-b955-7655ddca635d#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "painulfdt5",
+      "Integrity": "YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c2ceb8ff-7e8f-4c38-b955-7655ddca635d.webp"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c3a77357-1bd6-454d-b636-7cc5a4fc378b.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/c3a77357-1bd6-454d-b636-7cc5a4fc378b#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4j0mlxdrxc",
+      "Integrity": "0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c3a77357-1bd6-454d-b636-7cc5a4fc378b.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c8708e09-e02b-432d-a15b-6bc74dc41874.webp",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/c8708e09-e02b-432d-a15b-6bc74dc41874#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "painulfdt5",
+      "Integrity": "YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c8708e09-e02b-432d-a15b-6bc74dc41874.webp"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\d802f5b2-83c2-4930-8e64-0578d0fdc775.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/d802f5b2-83c2-4930-8e64-0578d0fdc775#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q0a2sfdv7a",
+      "Integrity": "OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d802f5b2-83c2-4930-8e64-0578d0fdc775.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\e75a683a-ef99-4a7f-a698-226155e5ab1e.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/e75a683a-ef99-4a7f-a698-226155e5ab1e#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dd3shp86mf",
+      "Integrity": "EbXhYfIExxJlv7fRL4kzTDfQYUyBsGKNRKi7vsSyS9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e75a683a-ef99-4a7f-a698-226155e5ab1e.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\eb45a88b-0937-4c85-9ed2-72dd6c2b7124.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/eb45a88b-0937-4c85-9ed2-72dd6c2b7124#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tjr38xvpe1",
+      "Integrity": "OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\eb45a88b-0937-4c85-9ed2-72dd6c2b7124.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\f292f730-cbc7-410a-9071-ec53bc750dac.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/f292f730-cbc7-410a-9071-ec53bc750dac#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dz4t0dd6ih",
+      "Integrity": "h51xIedZ+LGhTR6Kf5f6jZBDBTHBoQktIxTTzDfopXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f292f730-cbc7-410a-9071-ec53bc750dac.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\f2aa1010-39bf-41cf-ae63-00f12afe828a.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/f2aa1010-39bf-41cf-ae63-00f12afe828a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y82xwm7g4z",
+      "Integrity": "Xs684FqJNx2fgaJbEUfclEmMHfUprJMWZ2I1HNAMEQw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f2aa1010-39bf-41cf-ae63-00f12afe828a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\fce2c6b5-e536-4be4-bc59-a85db3279891.jpeg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/fce2c6b5-e536-4be4-bc59-a85db3279891#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t0wz34xv7a",
+      "Integrity": "IzCFAKTWQ+GFGIdvR4FGtmEdXK+RzPbyeYv/ixmd0gA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fce2c6b5-e536-4be4-bc59-a85db3279891.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\fdb4db7a-b779-48de-a344-412fe87d1098.jpg",
+      "SourceId": "ByteStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\",
+      "BasePath": "_content/ByteStoreAPI",
+      "RelativePath": "uploads/fdb4db7a-b779-48de-a344-412fe87d1098#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y96iv8kzr4",
+      "Integrity": "Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fdb4db7a-b779-48de-a344-412fe87d1098.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/021e0a62-db01-49c9-940b-188bcf301119.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\021e0a62-db01-49c9-940b-188bcf301119.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/021e0a62-db01-49c9-940b-188bcf301119.tjr38xvpe1.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\021e0a62-db01-49c9-940b-188bcf301119.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tjr38xvpe1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/021e0a62-db01-49c9-940b-188bcf301119.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/067c9034-8737-4e26-9914-39a27dd59c14.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\067c9034-8737-4e26-9914-39a27dd59c14.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/067c9034-8737-4e26-9914-39a27dd59c14.oc5yg3vufm.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\067c9034-8737-4e26-9914-39a27dd59c14.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oc5yg3vufm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/067c9034-8737-4e26-9914-39a27dd59c14.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0ac66da8-d3f0-4302-8843-c204d59e5750.02nug6q2sn.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\0ac66da8-d3f0-4302-8843-c204d59e5750.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yCfUz12xfun3TJ2O0giUKUPLQZUWlYo0Iq7Y2akhVrE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02nug6q2sn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0ac66da8-d3f0-4302-8843-c204d59e5750.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yCfUz12xfun3TJ2O0giUKUPLQZUWlYo0Iq7Y2akhVrE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0ac66da8-d3f0-4302-8843-c204d59e5750.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\0ac66da8-d3f0-4302-8843-c204d59e5750.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yCfUz12xfun3TJ2O0giUKUPLQZUWlYo0Iq7Y2akhVrE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yCfUz12xfun3TJ2O0giUKUPLQZUWlYo0Iq7Y2akhVrE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1ae1bb47-4735-4687-8663-43d83465cb02.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\1ae1bb47-4735-4687-8663-43d83465cb02.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1ae1bb47-4735-4687-8663-43d83465cb02.srdpe6t9d0.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\1ae1bb47-4735-4687-8663-43d83465cb02.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "srdpe6t9d0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1ae1bb47-4735-4687-8663-43d83465cb02.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2.4j0mlxdrxc.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4j0mlxdrxc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\20fbaa6b-6691-41a4-bfc4-ed8ca9281ab2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/25c69fca-990b-403a-b92b-0cdc8bc2a360.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\25c69fca-990b-403a-b92b-0cdc8bc2a360.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/25c69fca-990b-403a-b92b-0cdc8bc2a360.oc5yg3vufm.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\25c69fca-990b-403a-b92b-0cdc8bc2a360.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oc5yg3vufm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/25c69fca-990b-403a-b92b-0cdc8bc2a360.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/273696a6-1ad7-4840-a912-1f38c02dfe45.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\273696a6-1ad7-4840-a912-1f38c02dfe45.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/273696a6-1ad7-4840-a912-1f38c02dfe45.q0a2sfdv7a.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\273696a6-1ad7-4840-a912-1f38c02dfe45.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0a2sfdv7a"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/273696a6-1ad7-4840-a912-1f38c02dfe45.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2b900fa1-d5ef-4221-86b8-efa0ceefde59.f9xeeqgwss.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2b900fa1-d5ef-4221-86b8-efa0ceefde59.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9xeeqgwss"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2b900fa1-d5ef-4221-86b8-efa0ceefde59.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2b900fa1-d5ef-4221-86b8-efa0ceefde59.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2b900fa1-d5ef-4221-86b8-efa0ceefde59.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2ec9ccc4-4137-4703-8daf-d2bc83727fce.f9xeeqgwss.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2ec9ccc4-4137-4703-8daf-d2bc83727fce.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9xeeqgwss"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2ec9ccc4-4137-4703-8daf-d2bc83727fce.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2ec9ccc4-4137-4703-8daf-d2bc83727fce.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2ec9ccc4-4137-4703-8daf-d2bc83727fce.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2f3d22c4-25ef-4253-929a-31a4fedc07b5.f9xeeqgwss.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2f3d22c4-25ef-4253-929a-31a4fedc07b5.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9xeeqgwss"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2f3d22c4-25ef-4253-929a-31a4fedc07b5.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2f3d22c4-25ef-4253-929a-31a4fedc07b5.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2f3d22c4-25ef-4253-929a-31a4fedc07b5.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2fdf1d27-8810-4b66-9da2-52b5fd5f4223.pplsqpd2ut.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2fdf1d27-8810-4b66-9da2-52b5fd5f4223.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E/UEddcYWVCJ87eB1A/lr7qJK3BLwb+PQcCF+kMnp7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pplsqpd2ut"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2fdf1d27-8810-4b66-9da2-52b5fd5f4223.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E/UEddcYWVCJ87eB1A/lr7qJK3BLwb+PQcCF+kMnp7I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2fdf1d27-8810-4b66-9da2-52b5fd5f4223.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\2fdf1d27-8810-4b66-9da2-52b5fd5f4223.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E/UEddcYWVCJ87eB1A/lr7qJK3BLwb+PQcCF+kMnp7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E/UEddcYWVCJ87eB1A/lr7qJK3BLwb+PQcCF+kMnp7I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26.oc5yg3vufm.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oc5yg3vufm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3e47e4cd-d39c-4a81-ad09-9cf0baaa3b26.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/43f1842a-cf6d-4a7a-bc6a-1734124193f6.f14gshyozj.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\43f1842a-cf6d-4a7a-bc6a-1734124193f6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f14gshyozj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/43f1842a-cf6d-4a7a-bc6a-1734124193f6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/43f1842a-cf6d-4a7a-bc6a-1734124193f6.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\43f1842a-cf6d-4a7a-bc6a-1734124193f6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/443f59c1-38bf-49ff-92cb-d3501b37b932.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\443f59c1-38bf-49ff-92cb-d3501b37b932.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/443f59c1-38bf-49ff-92cb-d3501b37b932.srdpe6t9d0.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\443f59c1-38bf-49ff-92cb-d3501b37b932.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "srdpe6t9d0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/443f59c1-38bf-49ff-92cb-d3501b37b932.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MeaXKmoS4g4Dse+NDucHMP4e6ssXWK0HSJaBWGZO1o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4525502f-ba87-4b7d-9c33-2f91f6974e36.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\4525502f-ba87-4b7d-9c33-2f91f6974e36.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4525502f-ba87-4b7d-9c33-2f91f6974e36.q0a2sfdv7a.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\4525502f-ba87-4b7d-9c33-2f91f6974e36.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0a2sfdv7a"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4525502f-ba87-4b7d-9c33-2f91f6974e36.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/457a5450-6843-428d-b1bc-fa49c682439a.0zfia58d2e.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\457a5450-6843-428d-b1bc-fa49c682439a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zfia58d2e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/457a5450-6843-428d-b1bc-fa49c682439a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/457a5450-6843-428d-b1bc-fa49c682439a.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\457a5450-6843-428d-b1bc-fa49c682439a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/49629f70-971c-4aa8-8032-261900b3610b.f9xeeqgwss.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\49629f70-971c-4aa8-8032-261900b3610b.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9xeeqgwss"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/49629f70-971c-4aa8-8032-261900b3610b.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/49629f70-971c-4aa8-8032-261900b3610b.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\49629f70-971c-4aa8-8032-261900b3610b.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/49713f4c-a860-4d02-850d-1b874abe72db.4j0mlxdrxc.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\49713f4c-a860-4d02-850d-1b874abe72db.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4j0mlxdrxc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/49713f4c-a860-4d02-850d-1b874abe72db.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/49713f4c-a860-4d02-850d-1b874abe72db.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\49713f4c-a860-4d02-850d-1b874abe72db.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4ac5c726-2aed-492c-b729-c927003b55fb.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\4ac5c726-2aed-492c-b729-c927003b55fb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4ac5c726-2aed-492c-b729-c927003b55fb.tjr38xvpe1.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\4ac5c726-2aed-492c-b729-c927003b55fb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tjr38xvpe1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4ac5c726-2aed-492c-b729-c927003b55fb.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5745e5c8-85e6-4899-93d9-b2357aa57bf4.f9xeeqgwss.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\5745e5c8-85e6-4899-93d9-b2357aa57bf4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9xeeqgwss"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5745e5c8-85e6-4899-93d9-b2357aa57bf4.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5745e5c8-85e6-4899-93d9-b2357aa57bf4.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\5745e5c8-85e6-4899-93d9-b2357aa57bf4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Her0IdvAy3iqeAFrocKFTtqK217tJcgMEq0V+HSp62Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/58bddca0-90f7-47a4-8175-2c9cdd12f08a.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\58bddca0-90f7-47a4-8175-2c9cdd12f08a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZSHxGiLsuBhHi4O8nIB9rMFLKinaDTmOEySz/ZnV2dE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZSHxGiLsuBhHi4O8nIB9rMFLKinaDTmOEySz/ZnV2dE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/58bddca0-90f7-47a4-8175-2c9cdd12f08a.t674cuihqw.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\58bddca0-90f7-47a4-8175-2c9cdd12f08a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZSHxGiLsuBhHi4O8nIB9rMFLKinaDTmOEySz/ZnV2dE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t674cuihqw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/58bddca0-90f7-47a4-8175-2c9cdd12f08a.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZSHxGiLsuBhHi4O8nIB9rMFLKinaDTmOEySz/ZnV2dE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/65b0c154-3f9b-41b3-9f0c-15845ca80ee8.4j0mlxdrxc.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\65b0c154-3f9b-41b3-9f0c-15845ca80ee8.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4j0mlxdrxc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/65b0c154-3f9b-41b3-9f0c-15845ca80ee8.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/65b0c154-3f9b-41b3-9f0c-15845ca80ee8.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\65b0c154-3f9b-41b3-9f0c-15845ca80ee8.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6c2796e1-2ac0-44c6-9698-2b125a1dc045.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\6c2796e1-2ac0-44c6-9698-2b125a1dc045.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6c2796e1-2ac0-44c6-9698-2b125a1dc045.y96iv8kzr4.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\6c2796e1-2ac0-44c6-9698-2b125a1dc045.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y96iv8kzr4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6c2796e1-2ac0-44c6-9698-2b125a1dc045.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7f7cbda7-49b1-47f7-93a9-d945d923df20.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\7f7cbda7-49b1-47f7-93a9-d945d923df20.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7f7cbda7-49b1-47f7-93a9-d945d923df20.oc5yg3vufm.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\7f7cbda7-49b1-47f7-93a9-d945d923df20.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oc5yg3vufm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7f7cbda7-49b1-47f7-93a9-d945d923df20.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/84148543-7e90-4abc-857d-07d38451a3cf.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\84148543-7e90-4abc-857d-07d38451a3cf.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/84148543-7e90-4abc-857d-07d38451a3cf.oc5yg3vufm.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\84148543-7e90-4abc-857d-07d38451a3cf.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oc5yg3vufm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/84148543-7e90-4abc-857d-07d38451a3cf.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLt3KVUf9SUtOOpgXGTSH7a8MD5V0vB3TaJ8rTNoKrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8af6cd2a-d568-413f-9c18-88a94e8ae571.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\8af6cd2a-d568-413f-9c18-88a94e8ae571.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8af6cd2a-d568-413f-9c18-88a94e8ae571.tjr38xvpe1.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\8af6cd2a-d568-413f-9c18-88a94e8ae571.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tjr38xvpe1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8af6cd2a-d568-413f-9c18-88a94e8ae571.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/af242b14-5914-4dc0-877d-dbe08fc7b2b3.4j0mlxdrxc.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\af242b14-5914-4dc0-877d-dbe08fc7b2b3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4j0mlxdrxc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/af242b14-5914-4dc0-877d-dbe08fc7b2b3.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/af242b14-5914-4dc0-877d-dbe08fc7b2b3.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\af242b14-5914-4dc0-877d-dbe08fc7b2b3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bde9a761-e783-4b49-a4a9-0750db841a83.f14gshyozj.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\bde9a761-e783-4b49-a4a9-0750db841a83.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f14gshyozj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bde9a761-e783-4b49-a4a9-0750db841a83.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bde9a761-e783-4b49-a4a9-0750db841a83.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\bde9a761-e783-4b49-a4a9-0750db841a83.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cxhTbTvmfUMB+x168xBh2Qncjdbp35BwvXiVHjhKjR8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/be899267-c24a-4e88-9d29-0700dc789250.0zfia58d2e.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\be899267-c24a-4e88-9d29-0700dc789250.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zfia58d2e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/be899267-c24a-4e88-9d29-0700dc789250.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/be899267-c24a-4e88-9d29-0700dc789250.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\be899267-c24a-4e88-9d29-0700dc789250.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pKChaEQvns3IEYTlqV2RcvgOtUbXc1OMt1KGaPQOYAk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c2ceb8ff-7e8f-4c38-b955-7655ddca635d.painulfdt5.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c2ceb8ff-7e8f-4c38-b955-7655ddca635d.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "painulfdt5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c2ceb8ff-7e8f-4c38-b955-7655ddca635d.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c2ceb8ff-7e8f-4c38-b955-7655ddca635d.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c2ceb8ff-7e8f-4c38-b955-7655ddca635d.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c3a77357-1bd6-454d-b636-7cc5a4fc378b.4j0mlxdrxc.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c3a77357-1bd6-454d-b636-7cc5a4fc378b.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4j0mlxdrxc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c3a77357-1bd6-454d-b636-7cc5a4fc378b.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c3a77357-1bd6-454d-b636-7cc5a4fc378b.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c3a77357-1bd6-454d-b636-7cc5a4fc378b.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gpxk+AW+7CynCpGBU4TXJAnXsNc6TDCIDWIgR3fT9Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c8708e09-e02b-432d-a15b-6bc74dc41874.painulfdt5.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c8708e09-e02b-432d-a15b-6bc74dc41874.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "painulfdt5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c8708e09-e02b-432d-a15b-6bc74dc41874.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c8708e09-e02b-432d-a15b-6bc74dc41874.webp",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\c8708e09-e02b-432d-a15b-6bc74dc41874.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YT6tpcfUGHEV4vjt2lCQ+BXqkFaGv5nizJt0VfNYw04="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d802f5b2-83c2-4930-8e64-0578d0fdc775.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\d802f5b2-83c2-4930-8e64-0578d0fdc775.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d802f5b2-83c2-4930-8e64-0578d0fdc775.q0a2sfdv7a.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\d802f5b2-83c2-4930-8e64-0578d0fdc775.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0a2sfdv7a"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d802f5b2-83c2-4930-8e64-0578d0fdc775.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OmeLDZreRV4daFFp1UWbNbt48pWfL/FPW20pCDuSLLI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e75a683a-ef99-4a7f-a698-226155e5ab1e.dd3shp86mf.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\e75a683a-ef99-4a7f-a698-226155e5ab1e.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "243219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbXhYfIExxJlv7fRL4kzTDfQYUyBsGKNRKi7vsSyS9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd3shp86mf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e75a683a-ef99-4a7f-a698-226155e5ab1e.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbXhYfIExxJlv7fRL4kzTDfQYUyBsGKNRKi7vsSyS9c="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e75a683a-ef99-4a7f-a698-226155e5ab1e.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\e75a683a-ef99-4a7f-a698-226155e5ab1e.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "243219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbXhYfIExxJlv7fRL4kzTDfQYUyBsGKNRKi7vsSyS9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbXhYfIExxJlv7fRL4kzTDfQYUyBsGKNRKi7vsSyS9c="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/eb45a88b-0937-4c85-9ed2-72dd6c2b7124.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\eb45a88b-0937-4c85-9ed2-72dd6c2b7124.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/eb45a88b-0937-4c85-9ed2-72dd6c2b7124.tjr38xvpe1.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\eb45a88b-0937-4c85-9ed2-72dd6c2b7124.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tjr38xvpe1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/eb45a88b-0937-4c85-9ed2-72dd6c2b7124.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQpIp/0Xb3o23/KpVJY96o3CB5fCiMdAbk5zDPMT5EQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f292f730-cbc7-410a-9071-ec53bc750dac.dz4t0dd6ih.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\f292f730-cbc7-410a-9071-ec53bc750dac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h51xIedZ+LGhTR6Kf5f6jZBDBTHBoQktIxTTzDfopXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dz4t0dd6ih"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f292f730-cbc7-410a-9071-ec53bc750dac.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h51xIedZ+LGhTR6Kf5f6jZBDBTHBoQktIxTTzDfopXg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f292f730-cbc7-410a-9071-ec53bc750dac.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\f292f730-cbc7-410a-9071-ec53bc750dac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h51xIedZ+LGhTR6Kf5f6jZBDBTHBoQktIxTTzDfopXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h51xIedZ+LGhTR6Kf5f6jZBDBTHBoQktIxTTzDfopXg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f2aa1010-39bf-41cf-ae63-00f12afe828a.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\f2aa1010-39bf-41cf-ae63-00f12afe828a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xs684FqJNx2fgaJbEUfclEmMHfUprJMWZ2I1HNAMEQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xs684FqJNx2fgaJbEUfclEmMHfUprJMWZ2I1HNAMEQw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f2aa1010-39bf-41cf-ae63-00f12afe828a.y82xwm7g4z.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\f2aa1010-39bf-41cf-ae63-00f12afe828a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xs684FqJNx2fgaJbEUfclEmMHfUprJMWZ2I1HNAMEQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y82xwm7g4z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f2aa1010-39bf-41cf-ae63-00f12afe828a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xs684FqJNx2fgaJbEUfclEmMHfUprJMWZ2I1HNAMEQw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fce2c6b5-e536-4be4-bc59-a85db3279891.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\fce2c6b5-e536-4be4-bc59-a85db3279891.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzCFAKTWQ+GFGIdvR4FGtmEdXK+RzPbyeYv/ixmd0gA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzCFAKTWQ+GFGIdvR4FGtmEdXK+RzPbyeYv/ixmd0gA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fce2c6b5-e536-4be4-bc59-a85db3279891.t0wz34xv7a.jpeg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\fce2c6b5-e536-4be4-bc59-a85db3279891.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzCFAKTWQ+GFGIdvR4FGtmEdXK+RzPbyeYv/ixmd0gA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0wz34xv7a"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fce2c6b5-e536-4be4-bc59-a85db3279891.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzCFAKTWQ+GFGIdvR4FGtmEdXK+RzPbyeYv/ixmd0gA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fdb4db7a-b779-48de-a344-412fe87d1098.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\fdb4db7a-b779-48de-a344-412fe87d1098.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fdb4db7a-b779-48de-a344-412fe87d1098.y96iv8kzr4.jpg",
+      "AssetFile": "C:\\Users\\caios\\Downloads\\ByteStore\\ByteStoreAPI\\ByteStoreAPI\\wwwroot\\uploads\\fdb4db7a-b779-48de-a344-412fe87d1098.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 00:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y96iv8kzr4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fdb4db7a-b779-48de-a344-412fe87d1098.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ro+nsgvSuHkD2CWkrFiIQ8r+9MnMDcS0EKaHEbPjHwg="
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,6 @@ import ForgotPasswordView from '../views/ForgotPasswordView.vue'
 import MainLayout from '../layouts/MainLayout.vue'
 import VendorLoginView from '../views/VendorLoginView.vue'
 import VendorDashboardView from '../views/VendorDashboardView.vue'
-import AddProductView from '../views/AddProductView.vue'
 
 // --- NOVOS IMPORTS ---
 // Importando os novos arquivos que vamos criar/usar
@@ -41,32 +40,22 @@ const router = createRouter({
         { path: 'home', name: 'home', component: HomeView },
         { path: 'product/:id', name: 'product-detail', component: ProductDetailView, props: true },
         { path: 'cart', name: 'cart', component: CartView },
-        { path: 'checkout', name: 'checkout', component: CheckoutView }
+        { path: 'checkout', name: 'checkout', component: CheckoutView },
+        { path: 'purchases', name: 'purchases', component: () => import('@/views/PurchasesView.vue') }
       ]
     },
 
     // --- ROTAS PRIVADAS DO VENDEDOR ---
-    {
-      path: '/vendor',
-      // --- ALTERAÇÃO PRINCIPAL ---
-      // Agora usa o layout exclusivo do vendedor
-      component: VendorLayout, 
-      beforeEnter: (to, from, next) => store.isVendorAuthenticated ? next() : next('/vendor/login'),
-      children: [
-        { path: 'dashboard', name: 'vendor-dashboard', component: VendorDashboardView },
-        { path: 'products/new', name: 'add-product', component: AddProductView }
-      ]
-    },
+
     {
       path: '/vendor',
       component: VendorLayout,
       beforeEnter: (to, from, next) => store.isVendorAuthenticated ? next() : next('/vendor/login'),
       children: [
         { path: 'dashboard', name: 'vendor-dashboard', component: VendorDashboardView },
-        { path: 'products/new', name: 'add-product', component: AddProductView },
-        // --- ADICIONE ESTAS DUAS NOVAS ROTAS AQUI ---
         { path: 'questions', name: 'vendor-questions', component: () => import('../views/VendorQuestionsView.vue') },
-        { path: 'sales', name: 'vendor-sales', component: () => import('../views/VendorSalesView.vue') }
+        { path: 'sales', name: 'vendor-sales', component: () => import('../views/VendorSalesView.vue') },
+        { path: 'coupons', name: 'vendor-coupons', component: () => import('../views/VendorCouponsView.vue') }
       ]
     }
   ]

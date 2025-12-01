@@ -8,7 +8,7 @@ import { createOrder } from '@/services/checkoutService'
 const couponInput = ref('')
 const showSuccessPopup = ref(false)
 const router = useRouter()
-const shippingCost = 5.0
+const shippingCost = computed(() => (subtotal.value * 0.05))
 
 // --- ESTADO PARA PAGAMENTO COM CARTÃO ---
 const selectedPaymentMethod = ref('credit')
@@ -43,7 +43,7 @@ const subtotal = computed(() =>
   store.cart.reduce((acc, item) => acc + item.price * item.quantity, 0)
 )
 const grandTotal = computed(
-  () => subtotal.value + shippingCost - discountAmount.value
+  () => subtotal.value + shippingCost.value - discountAmount.value
 )
 
 const installmentOptions = computed(() => {
@@ -74,17 +74,10 @@ watch(selectedPaymentMethod, (newValue) => {
 const handleApplyCoupon = async () => {
   const code = couponInput.value.toUpperCase().trim()
   if (!code) {
-    alert('Por favor, digite um código de cupom')
     return
   }
 
   await store.applyCoupon(code)
-  
-  if (store.appliedCoupon) {
-    alert(`Cupom ${code} aplicado com sucesso!`)
-  } else {
-    alert(store.couponMessage || 'Cupom inválido!')
-  }
 }
 
 function saveNewCard() {
@@ -145,7 +138,7 @@ const handlePlaceOrder = async () => {
       paymentMethod: selectedPaymentMethod.value,
       installments: installments.value,
       coupon: store.appliedCoupon,
-      shippingCost: shippingCost,
+      shippingCost: shippingCost.value,
     };
 
     if (selectedPaymentMethod.value === 'credit' || selectedPaymentMethod.value === 'debit') {
@@ -317,7 +310,7 @@ function confirmSuccess() {
 
             <div class="space-y-2">
               <div class="flex justify-between"><span>Subtotal</span><span>R${{ subtotal.toFixed(2) }}</span></div>
-              <div class="flex justify-between text-gray-400"><span>Frete</span><span>R$5.00</span></div>
+              <div class="flex justify-between text-gray-400"><span>Frete</span><span>R${{ shippingCost.toFixed(2) }}</span></div>
 
               <!-- CUPOM DE DESCONTO -->
               <div class="mt-4 flex gap-2">

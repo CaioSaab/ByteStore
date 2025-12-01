@@ -1,0 +1,495 @@
+[
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AccountController",
+    "Method": "GetAllClients",
+    "RelativePath": "api/Account",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AccountController",
+    "Method": "GetClientById",
+    "RelativePath": "api/Account/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AccountController",
+    "Method": "UpdateClient",
+    "RelativePath": "api/Account/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ByteStoreAPI.DTOs.UpdateAccountDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AccountController",
+    "Method": "DeleteClient",
+    "RelativePath": "api/Account/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AuthController",
+    "Method": "LoginBuyer",
+    "RelativePath": "api/Auth/LoginComprador",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "ByteStoreAPI.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AuthController",
+    "Method": "LoginSeller",
+    "RelativePath": "api/Auth/LoginVendedor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "ByteStoreAPI.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AuthController",
+    "Method": "GetCurrentClient",
+    "RelativePath": "api/Auth/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AuthController",
+    "Method": "RegisterBuyer",
+    "RelativePath": "api/Auth/RegistrarComprador",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ByteStoreAPI.DTOs.CreateAccountDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AuthController",
+    "Method": "RegisterSeller",
+    "RelativePath": "api/Auth/RegistrarVendedor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ByteStoreAPI.DTOs.CreateAccountDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.AuthController",
+    "Method": "GetCurrentVendor",
+    "RelativePath": "api/Auth/vendor/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.CouponsController",
+    "Method": "Available",
+    "RelativePath": "api/coupons/available",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.CouponsController",
+    "Method": "Validate",
+    "RelativePath": "api/coupons/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ByteStoreAPI.Controllers.CouponsController\u002BValidateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.ProductController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetProductById"
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.QuestionsController",
+    "Method": "CreateQuestion",
+    "RelativePath": "api/products/{productId}/questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "ByteStoreAPI.Controllers.QuestionsController\u002BCreateQuestionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.QuestionsController",
+    "Method": "GetProductQuestions",
+    "RelativePath": "api/products/{productId}/questions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.SaleController",
+    "Method": "RealizarCompra",
+    "RelativePath": "api/Sale",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ByteStoreAPI.DTOs.CriarVendaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.SaleController",
+    "Method": "GetMinhasCompras",
+    "RelativePath": "api/Sale/minhas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendorCouponsController",
+    "Method": "Listar",
+    "RelativePath": "api/vendedor/cupons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendorCouponsController",
+    "Method": "CriarOuAtualizar",
+    "RelativePath": "api/vendedor/cupons",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ByteStoreAPI.DTOs.UpsertCouponDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendorCouponsController",
+    "Method": "Excluir",
+    "RelativePath": "api/vendedor/cupons/{code}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendorCouponsController",
+    "Method": "AlterarStatus",
+    "RelativePath": "api/vendedor/cupons/{code}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "body",
+        "Type": "ByteStoreAPI.Controllers.VendorCouponsController\u002BToggleCouponRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "GetMyQuestions",
+    "RelativePath": "api/vendedor/perguntas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "AnswerQuestion",
+    "RelativePath": "api/vendedor/perguntas/{id}/responder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "ByteStoreAPI.Controllers.VendedorController\u002BAnswerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "CreateMyProduct",
+    "RelativePath": "api/vendedor/produtos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Data",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "GetMyProducts",
+    "RelativePath": "api/vendedor/produtos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "DeleteMyProduct",
+    "RelativePath": "api/vendedor/produtos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "ToggleMyProductStatus",
+    "RelativePath": "api/vendedor/produtos/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ByteStoreAPI.DTOs.UpdateStatusDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "UpdateVariationStock",
+    "RelativePath": "api/vendedor/produtos/{productId}/variacoes/{variationId}/estoque",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "variationId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "ByteStoreAPI.Controllers.VendedorController\u002BUpdateStockRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "GetMinhasVendas",
+    "RelativePath": "api/vendedor/vendas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ByteStoreAPI.Controllers.VendedorController",
+    "Method": "UpdateSaleStatus",
+    "RelativePath": "api/vendedor/vendas/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "ByteStoreAPI.Controllers.VendedorController\u002BUpdateSaleStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

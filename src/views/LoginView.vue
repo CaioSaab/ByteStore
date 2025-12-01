@@ -17,22 +17,37 @@ const validateForm = () => {
   return true;
 };
 
-const handleLogin = async () => {
-  errorMessage.value = '';
-  
-  if (!validateForm()) {
-    return;
-  }
+// No seu componente de Login (.vue) - Bloco <script setup>
 
-  isLoading.value = true;
-  const result = await store.login(email.value, password.value);
-  isLoading.value = false;
-
-  if (result.success) {
-    router.push('/app/home');
-  } else {
-    errorMessage.value = result.error || 'Erro ao fazer login';
+const handleLogin = async (event) => {
+  if (event) {
+    event.preventDefault();
   }
+    errorMessage.value = '';
+    
+    if (!validateForm()) {
+        return;
+    }
+
+    isLoading.value = true;
+    
+    try {
+        const result = await store.login(email.value, password.value);
+        
+        if (result.success) {
+            router.push('/app/home');
+        } else {
+            // Se a Store retornar success: false, a mensagem aparece no DOM.
+            errorMessage.value = result.error || 'Erro desconhecido.';
+        }
+    } catch (error) {
+        // Captura erros inesperados que poderiam causar a recarga.
+        console.error("Erro inesperado durante o login:", error);
+        errorMessage.value = 'Falha ao conectar-se ao servidor.';
+    } finally {
+        // Garante que o loading seja desativado e o fluxo continue.
+        isLoading.value = false;
+    }
 };
 </script>
 

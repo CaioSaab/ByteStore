@@ -19,9 +19,10 @@ function handleVendorLogout() {
         </span>
         <nav class="flex items-center space-x-4 md:space-x-6">
           <RouterLink :to="{ name: 'vendor-dashboard' }" class="hover:text-blue-400 text-sm md:text-base">Painel</RouterLink>
-          <RouterLink :to="{ name: 'add-product' }" class="hover:text-blue-400 text-sm md:text-base">Adicionar Anúncio</RouterLink>
+          
           <RouterLink :to="{ name: 'vendor-questions' }" class="hover:text-blue-400 text-sm md:text-base">Perguntas</RouterLink>
           <RouterLink :to="{ name: 'vendor-sales' }" class="hover:text-blue-400 text-sm md:text-base">Gestão de Vendas</RouterLink>
+          <RouterLink :to="{ name: 'vendor-coupons' }" class="hover:text-blue-400 text-sm md:text-base">Cupons</RouterLink>
           
           <button @click="handleVendorLogout" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg text-sm">
             Logout

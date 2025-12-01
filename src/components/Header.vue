@@ -49,6 +49,9 @@ function handleLogout() {
               {{ cartItemCount }}
             </span>
         </RouterLink>
+        <RouterLink v-if="store.isAuthenticated" :to="{ name: 'purchases' }" class="bg-gray-700 hover:bg-gray-600 text-white font-semibold px-3 py-1.5 rounded-md">
+          Meus Pedidos
+        </RouterLink>
 
         <div v-if="store.isAuthenticated">
           <button @click="handleLogout" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">

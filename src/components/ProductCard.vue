@@ -6,7 +6,7 @@
       <div class="p-4">
         <h3 class="text-lg font-semibold truncate">{{ product.name }}</h3>
         <p class="text-sm text-gray-400 mb-2">{{ product.category }}</p>
-        <p class="text-xl font-bold text-blue-400">${{ product.price.toFixed(2) }}</p>
+        <p class="text-xl font-bold text-blue-400">R${{ product.price.toFixed(2) }}</p>
       </div>
     </router-link>
 

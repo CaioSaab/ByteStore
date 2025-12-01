@@ -41,6 +41,8 @@ const fullyFilteredProducts = computed(() => {
   );
 });
 
+const currentHeading = computed(() => store.selectedCategory === 'Todos' ? 'Todos os Produtos' : store.selectedCategory);
+
 watch(fullyFilteredProducts, () => {
   currentPage.value = 1;
 });
@@ -64,17 +66,14 @@ const handlePageChange = (newPage) => {
   <div class="container mx-auto flex flex-col lg:flex-row gap-8">
     <FilterSidebar />
     <div class="w-full">
-      <h2 class="text-2xl font-bold mb-6 text-white">PRODUTOS EM DESTAQUE</h2>
-      
+      <h2 class="text-2xl font-bold mb-6 text-white">{{ currentHeading }}</h2>
       <div v-if="paginatedProducts.length > 0" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 min-h-[500px]">
         <ProductCard v-for="product in paginatedProducts" :key="product.id" :product="product" />
       </div>
-      
       <div v-else class="text-center text-gray-400 mt-10">
         <p class="text-2xl">Nenhum produto encontrado.</p>
         <p>Tente ajustar sua busca ou filtros.</p>
       </div>
-
       <div class="mt-10 flex justify-center">
         <Pagination
           :currentPage="currentPage"

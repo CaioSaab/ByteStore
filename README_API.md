@@ -48,9 +48,15 @@ Authorization: Bearer <token>
 - `GET /products` - Listar produtos
 - `GET /products/:id` - Detalhes do produto
 - `GET /products/search` - Buscar produtos
+- `GET /products/featured` - Listar produtos em destaque
 - `POST /products` - Criar produto (vendedor)
 - `POST /products/:id/questions` - Adicionar pergunta ao produto
 - `GET /products/:id/questions` - Listar perguntas do produto
+
+### Produtos - Vendedor
+- `GET /products/vendor/my-products` - Listar produtos do vendedor autenticado (requer autenticação de vendedor)
+- `PATCH /products/:id/status` - Ativar/desativar produto (requer autenticação de vendedor)
+  - Body: `{ "active": true/false }`
 
 ### Carrinho
 - `GET /cart` - Obter carrinho

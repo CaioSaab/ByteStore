@@ -2,10 +2,10 @@ import { api, setAuthToken, setVendorToken } from './api';
 
 const login = async (email, password) => {
   try {
-    const response = await api.post('/auth/login', { email, password });
-    const token = response.data.token || '';
-    setAuthToken(token);
-    return { success: true, data: response.data, token };
+  const response = await api.post('/Auth/LoginComprador', { email, password });
+  const token = typeof response.data === 'string' ? response.data : (response.data.token || '');
+  setAuthToken(token);
+  return { success: true, data: response.data, token };
   } catch (error) {
     return { 
       success: false, 
@@ -16,10 +16,14 @@ const login = async (email, password) => {
 
 const register = async (userData) => {
   try {
-    const response = await api.post('/auth/register', userData);
-    const token = response.data.token || '';
-    setAuthToken(token);
-    return { success: true, data: response.data, token };
+    const payload = {
+      Nome: userData.name,
+      Email: userData.email,
+      Password: userData.password,
+    };
+    const response = await api.post('/Auth/RegistrarComprador', payload);
+    return { success: true, data: response.data };
+
   } catch (error) {
     return { 
       success: false, 
@@ -35,10 +39,10 @@ const logout = () => {
 
 const vendorLogin = async (email, password) => {
   try {
-    const response = await api.post('/auth/vendor/login', { email, password });
-    const token = response.data.token || '';
-    setVendorToken(token);
-    return { success: true, data: response.data, token };
+  const response = await api.post('/Auth/LoginVendedor', { email, password });
+  const token = typeof response.data === 'string' ? response.data : (response.data.token || '');
+  setVendorToken(token);
+  return { success: true, data: response.data, token };
   } catch (error) {
     return { 
       success: false, 
@@ -49,10 +53,13 @@ const vendorLogin = async (email, password) => {
 
 const vendorRegister = async (vendorData) => {
   try {
-    const response = await api.post('/auth/vendor/register', vendorData);
-    const token = response.data.token || '';
-    setVendorToken(token);
-    return { success: true, data: response.data, token };
+    const payload = {
+      Nome: vendorData.storeName,
+      Email: vendorData.email,
+      Password: vendorData.password,
+    };
+    const response = await api.post('/Auth/RegistrarVendedor', payload);
+    return { success: true, data: response.data };
   } catch (error) {
     return { 
       success: false, 
@@ -75,7 +82,7 @@ const forgotPassword = async (email) => {
 
 const getCurrentUser = async () => {
   try {
-    const response = await api.get('/auth/me');
+  const response = await api.get('/Auth/me');
     return { success: true, data: response.data };
   } catch (error) {
     return { 
@@ -87,7 +94,7 @@ const getCurrentUser = async () => {
 
 const getCurrentVendor = async () => {
   try {
-    const response = await api.get('/auth/vendor/me');
+  const response = await api.get('/Auth/vendor/me');
     return { success: true, data: response.data };
   } catch (error) {
     return { 

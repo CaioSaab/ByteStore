@@ -5,10 +5,11 @@ import { store } from './store/index.js'
 
 import './assets/main.css'
 
-const app = createApp(App)
+async function bootstrap() {
+  await store.initialize();
+  const app = createApp(App);
+  app.use(router);
+  app.mount('#app');
+}
 
-app.use(router)
-
-app.mount('#app')
-
-store.initialize()
+bootstrap();

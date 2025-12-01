@@ -2,12 +2,30 @@ import { api } from './api';
 
 const createOrder = async (orderData) => {
   try {
-    const response = await api.post('/orders', orderData);
+    const itens = (orderData.items || []).map(i => ({
+      productVariationId: i.variationId,
+      quantidade: i.quantity,
+    }));
+
+    const methodMap = {
+      credit: 'Crédito',
+      debit: 'Débito',
+      pix: 'Pix'
+    };
+
+    const payload = {
+      itens,
+      shippingCost: Number(orderData.shippingCost || 0),
+      couponCode: orderData.coupon || null,
+      paymentMethod: methodMap[orderData.paymentMethod] || 'Crédito',
+      installments: orderData.installments || null,
+    };
+    const response = await api.post('/sale', payload);
     return { success: true, data: response.data };
   } catch (error) {
     return { 
       success: false, 
-      error: error.response?.data?.message || 'Erro ao criar pedido' 
+      error: error.response?.data?.message || 'Erro ao finalizar compra' 
     };
   }
 };
